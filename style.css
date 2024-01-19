@@ -18,9 +18,12 @@ body{
 }
 #hero{
     background-color: #a0d2eb;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
+ 
 }
 #searchbar{
-    margin:auto;
+   height:25px;
+   border:none;
+   border-radius: 8px;
+   width: 300px;
+   background-color: #a0d2eb;
 }

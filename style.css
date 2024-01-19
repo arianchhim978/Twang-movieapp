@@ -14,5 +14,13 @@ ul a {
 
 }
 body{
-    background-color:#7804BE;
+    background-color:white;
+}
+#hero{
+    background-color: #a0d2eb;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+#searchbar{
+    margin:auto;
 }
